@@ -448,7 +448,7 @@ If it holds up under expert scrutiny, CANTOR enables:
 
 ## 👤 Author
 
-**Saif Ahmed** ·ECE (CSE), North South University*
+**Saif Ahmed** ·ECE (CSE), North South University
 
 ---
 
