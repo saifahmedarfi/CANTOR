@@ -448,11 +448,7 @@ If it holds up under expert scrutiny, CANTOR enables:
 
 ## 👤 Author
 
-**Saif Ahmed** · ID 2231902642 · ECE (CSE), North South University
-📧 `saif.ahmed03@northsouth.edu`
-
-**Supervisor:** Dr. Md Adnan Arefeen — Assistant Professor, Dept. of Electrical & Computer Engineering, NSU
-*Course: CSE465 — Pattern Recognition and Neural Network*
+**Saif Ahmed** ·ECE (CSE), North South University*
 
 ---
 
